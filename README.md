@@ -5,7 +5,7 @@
 **Assumptions:**
 The input string equation only consists of these parameters, i.e. numbers and operators (+ - * /).
 Each parameter is separated by single space.
-The input string equation are in valid equation format.
+The input string equation is in valid equation format.
 
 **Solution Approach:**
 1. The main method loops through a list of test equations to output the calculated values.
